@@ -34,8 +34,8 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 
 ### Filmer
 
-01 - [Promptstrategier](https://vimeo.com/1126228028/033cdc0830?share=copy)
-02 - [Prompt Templates](https://vimeo.com/1126226713/7fb22b206d?share=copy)
+* 01 - [Promptstrategier](https://vimeo.com/1126228028/033cdc0830?share=copy)
+* 02 - [Prompt Templates](https://vimeo.com/1126226713/7fb22b206d?share=copy)
 
 ### Länkar
 
