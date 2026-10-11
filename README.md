@@ -30,7 +30,7 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 
 ### Lektionsrepon
 
-* [12 oktober]()
+* [12 oktober](https://github.com/fu-ai-webb25/week-42-lecture-12-okt)
 
 ### Filmer
 
@@ -43,6 +43,6 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 
 ### Övningar 
 
-* [Coffee Bot]()
+* [Coffee Bot](https://github.com/fu-ai-webb25/week-42-execise-coffee-bot)
 
 
