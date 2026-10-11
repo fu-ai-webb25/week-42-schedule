@@ -21,7 +21,8 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [Att styra en LLM](https://docs.google.com/presentation/d/1nqffyQBNX7mNlLSV6be73_RWG6vMKG-M/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 02 - [Introduktion till Tools](https://docs.google.com/presentation/d/1bZ_GT3CWtMHarou2_1otZ-AJPU7xETDw/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -29,15 +30,17 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 
 ### Lektionsrepon
 
-* []()
+* [12 oktober]()
 
 ### Filmer
 
 
 ### Länkar
 
-* []()
+* [LangChain JS - Dokumentation](https://reference.langchain.com/javascript/langchain)
 
 ### Övningar 
+
+* [Coffee Bot]()
 
 
