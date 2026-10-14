@@ -27,6 +27,7 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 ### Inspelade föreläsningar
 
 * [Prompt Engineering, Modellinställningar och Structured Output, 12 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQALfYXZ9sUNQqpDnQMQVSySAaRutZ3ijAHfgKD1uh5VGOY?e=8MrODp)
+* [Tools, 14 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAhrZtDUSFhTLbJZdcg9RMQAXFFFLJBmTOW2cbjwGfSEoY?e=zovcvO)
 
 ### Lektionsrepon
 
