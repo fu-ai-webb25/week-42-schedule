@@ -31,6 +31,7 @@ Vi kommer även att arbeta med verktyg och function calling, vilket gör det mö
 ### Lektionsrepon
 
 * [12 oktober](https://github.com/fu-ai-webb25/week-42-lecture-12-okt)
+* [14 oktober](https://github.com/fu-ai-webb25/week-42-lecture-14-okt)
 
 ### Filmer
 
